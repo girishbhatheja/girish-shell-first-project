@@ -1,2 +1,2 @@
 # girish-shell-first-project
-Learning how ot use guthub
+Learning how to use guthub
